@@ -2,7 +2,7 @@
 
 American-made ASICs, Nodes
 
-Made In USA manufacturing:
+Made In USA manufacturing
 Possible variation(s) of name(s)
 - American (Made In the USA) ASICs – or, USasic
 - USasic
