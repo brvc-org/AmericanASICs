@@ -2,7 +2,9 @@
 
 American-made ASICs, Nodes
 
-Made In USA manufacturing.  Possible variation(s) of name(s):
+Made In USA manufacturing and design by BRVC
+
+Possible variation(s) of name(s):
 - American (Made In the USA) ASICs – or, USasic
 - USasic
 - MITUSasic
