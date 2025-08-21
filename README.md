@@ -37,4 +37,6 @@ Mac Mini-like or -esque type design for new ASICs (?)
 
 Mac Studio-like design for new ASICs/Nodes (?)
 
+American ASICs, Nodes for “new,” “alternative approach”-type Fiber-to-[Outdated, physical, stillused architecture for/with network info transferring or energy conductible/capable mechanism(s)] 802.11X
+
 More to come soon...
