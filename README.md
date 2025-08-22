@@ -39,4 +39,16 @@ Mac Studio-like design for new ASICs/Nodes (?)
 
 American ASICs, Nodes for “new,” “alternative approach”-type Fiber-to-[Outdated, physical, stillused architecture for/with network info transferring or energy conductible/capable mechanism(s)] 802.11X
 
+New ASICs 3D CAD design(s) (?)
+
+DUPRE LOGISTICS - NEW ASICs DESIGNS (?)
+
+Dupre Logistics: water- or liquid-cooling design for new ASICs/nodes/mining design (?)
+
+Dupre Logistics >< Hydroxydizer/Mineral Oil-based mining rig(s) (?)
+
+Hydroxydizer-based mining rigs completely submerged in mineral oil/liquid-cooled water set-up (?)
+
+Apple ASICs (by Dupre Logistics + Begneaud Manufacturing)
+
 More to come soon...
